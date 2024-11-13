@@ -1,2 +1,2 @@
-t.me/ktandroidreview
-https://www.youtube.com/@kienthucandroid
+* t.me/ktandroidreview
+* youtube.com/@kienthucandroid

@@ -7,7 +7,5 @@
 + **TrickyStore** [Download it HERE](https://github.com/5ec1cff/TrickyStore/releases/download/1.2.0/Tricky-Store-v1.2.0-155-331f6fe-release.zip)
 + **Keybox** [Download it HERE](https://raw.githubusercontent.com/Thaomtam/KTAndroi-review/refs/heads/main/keybox.xml)
 + **Pif.json** [Download it HERE](https://raw.githubusercontent.com/Thaomtam/KTAndroi-review/refs/heads/main/pif.json)
-
-
-+ **Link kênh ** [Telegram](t.me/ktandroidreview)
-+ **Link kênh ** [Youtube](youtube.com/@kienthucandroid)
++ **Link kênh** [Telegram](https://t.me/ktandroidreview)
++ **Link kênh** [Youtube](https://www.youtube.com/@kienthucandroid)

@@ -34,3 +34,9 @@ Chọn Magisk.zip.
 Kéo để cài đặt.
 Reboot lại máy.
 ✔ Xong, máy có root!
+
+Đối với samsung cần dùng odin để flash
+- Tức là bản rom của nó là tar chứ không phải zip như mấy hãng khác
+- Cách để patchboot trong magisk, mở magisk chọn cái AP để magisk patch
+- Sau khi nó patch xong thì dùng cái đó mở odin lên chọn chỗ ap chọn file vừa patch để odin cài đặt xong
+khởi động lại có root magisk
